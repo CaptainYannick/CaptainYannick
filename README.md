@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainYannick
 - 👀 I’m interested in creating Minecraft Plugins and more!
-- 🌱 I’m currently learning NodeJS and I'm expanding my Java knowledge
+- 🌱 I’m currently learning JavaScript and expanding my Java knowledge
 - 📫 You can contact me on Discord: Yannick#1434
 <!--- - 💞️ I’m looking to collaborate on --->
 
